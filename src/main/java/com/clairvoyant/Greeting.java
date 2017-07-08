@@ -1,4 +1,4 @@
-package com.test;
+package com.clairvoyant;
 
 /**
  * Created by pbhavsar on 7/8/17.
